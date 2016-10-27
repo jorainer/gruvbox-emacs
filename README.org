@@ -1,0 +1,11 @@
+# #+TITLE: flatui Emacs theme
+#+AUTHOR: Johannes Rainer
+#+email: johannes.rainer@gmail.com
+
+* Gruvbox theme for Emacs
+
+Gruvbox for Emacs is a theme based on the colors from
+[[https://github.com/morhetz/gruvbox][Vim's gruvbox]] and bbatsov's
+[[https://github.com/bbatsov/solarized-emacs][solarized-emacs]] theme. Thus, all credit should go to the developers of gruvbox
+and bbatsov.
+
