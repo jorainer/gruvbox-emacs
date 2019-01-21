@@ -1137,7 +1137,7 @@ customize the resulting theme."
     `(helm-M-x-key ((,class (:foreground ,orange :underline t))))
     `(helm-moccur-buffer ((,class (:foreground ,cyan :underline t))))
     `(helm-match ((,class (:inherit match))))
-    `(helm-selection ((,class (:background ,base02 :underline t))))
+    `(helm-selection ((,class (:background ,base02 :foreground ,yellow :weight bold))))
     `(helm-selection-line ((,class (:background ,base02 :foreground ,base1
                                                 :underline nil))))
     `(helm-separator ((,class (:foreground ,red))))
